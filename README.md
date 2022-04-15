@@ -8,7 +8,7 @@ system.
 
 Here is a diagram made with the font:
 
-![Cuernavaca Chess Font](https://raw.githubusercontent.com/samboy/ChessTepoztlanOFL/main/CuernavacaDemoSmall.png)
+![Cuernavaca Chess Font](https://raw.githubusercontent.com/samboy/ChessCuernavacaOFL/main/CuernavacaDemoSmall.png)
 
 There is some support for fairy chess pieces.
 
