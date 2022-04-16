@@ -3,6 +3,24 @@
 Chess Cuernavaca is an OFL licensed font suitable for making Chess
 diagrams.  
 
+Its graphics are mostly based on public domain vector files
+available at the Wikimedia commons.  Those vector files are in turn
+based on raster PNG images.  The PNG images, in turn, are renderings
+of symbols in the open source
+[Skak Chess Font](https://github.com/lehoff/skak), but do not, as per
+*Eltra Corp. v. Ringer*, fall under the license for that font.
+Since the SVG files are derived from raster PNG images,
+*Adobe Systems, Inc. v. Southern Software, Inc.* does not apply.
+
+Note that this font is *not* public domain in some jurisdictions which
+allow fonts to be copyrighted, but is still available under a different
+[open source license](https://github.com/lehoff/skak/blob/master/LICENSE).
+Since some jurisdictions which protect fonts only protect them for 
+shorter terms, it appears that the Shak font was first published in 
+2002, so copyright expired before 2013 in Germany (10 years protection 
+without registration), and expired before 2018 in Ireland (15 years 
+protection).
+
 To use, install the `ChessCuernavaca.ttf` file in one’s operating
 system.
 
